@@ -7,7 +7,7 @@
 ------------------------------------------------------------------------
 
 <div style="display: block;" align="center">
-<a href="https://unify.ai/ivy">
+<a href="https://ivy.dev/">
     <img class="dark-light" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/website_button.svg">
 </a>
 <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
