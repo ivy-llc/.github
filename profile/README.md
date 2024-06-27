@@ -1,6 +1,5 @@
-<img class="only-dark" width="100%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logo_dark.png#gh-dark-mode-only"/>
+<img class="only-dark" width="100%" align="center" src="https://raw.githubusercontent.com/ivy-llc/ivy-llc.github.io/main/src/assets/ivy_logo_dark_long.png?token=GHSAT0AAAAAACTDGH7G3SKR5AKWS462MQ2GZT5MOEQ"/>
 
-<img class="only-light" width="100%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logo.png?raw=true#gh-light-mode-only"/>
 
 ------------------------------------------------------------------------
 
