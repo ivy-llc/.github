@@ -1,6 +1,6 @@
-<img class="only-dark" width="100%" src="https://raw.githubusercontent.com/ivy-llc/ivy-llc.github.io/main/src/assets/ivy_logo_dark_long.png?token=GHSAT0AAAAAACTDGH7G3SKR5AKWS462MQ2GZT5MOEQ"/>
+<img class="only-dark" width="100%" src="https://github.com/ivy-llc/ivy-llc.github.io/blob/main/src/assets/ivy_logo_dark_long.png?raw=true#gh-light-mode-only"/>
 
-<img class="only-light" width="100%" src="https://raw.githubusercontent.com/ivy-llc/ivy-llc.github.io/main/src/assets/ivy_logo_light_long.png?token=GHSAT0AAAAAACTDGH7G3BAASQ25DAAZITS4ZT5MO5A"/>
+<img class="only-light" width="100%" src="https://github.com/ivy-llc/ivy-llc.github.io/blob/main/src/assets/ivy_logo_light_long.png?raw=true#gh-dark-mode-only"/>
 
 ------------------------------------------------------------------------
 
