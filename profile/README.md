@@ -99,8 +99,6 @@ You can find Ivy's documentation on the [Docs page](https://ivy.dev/docs/), whic
 - [Design](https://ivy.dev/docs/overview/design.html): A user-focused guide about the design decision behind the architecture and the main building blocks of Ivy.
 - [Deep Dive](https://ivy.dev/docs/overview/deep_dive.html): Which delves deeper into the implementation details of Ivy and is oriented towards potential contributors to the code base.
 
-<br>
-
 # Contributing
 
 
