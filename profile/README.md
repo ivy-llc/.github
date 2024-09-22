@@ -1,34 +1,38 @@
 <div style="display: block;" align="center">
-    <img class="only-dark" width="50%" src="https://raw.githubusercontent.com/ivy-llc/assets/ef677f0eb3e9ee756cf766e3ac0088eb8c187713/assets/full_logo_dark_long.svg#gh-dark-mode-only"/>
-</div>
-
-<div style="display: block;" align="center">
-    <img class="only-light" width="50%" src="https://raw.githubusercontent.com/ivy-llc/assets/ef677f0eb3e9ee756cf766e3ac0088eb8c187713/assets/full_logo_light_long.svg#gh-light-mode-only"/>
+    <img class="dark-light" width="50%" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/logos/ivy-long.svg"/>
 </div>
 
 ------------------------------------------------------------------------
 
-<div style="display: block;" align="center">
-    <a href="https://ivy.dev/">
-        <img class="dark-light" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/website_button.svg">
-    </a>
-    <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
-    <a href="https://ivy.dev/docs">
-        <img class="dark-light" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/docs_button.svg">
-    </a>
-    <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
-    <a href="https://ivy.dev/docs/demos">
-        <img class="dark-light" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/examples_button.svg">
-    </a>
-    <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
-    <a href="https://ivy.dev/docs/overview/design.html">
-        <img class="dark-light" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/design_button.svg">
-    </a>
-    <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
-    <a href="https://ivy.dev/docs/overview/faq.html">
-        <img class="dark-light" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/faq_button.svg">
-    </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="75" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/website.svg" alt="Website">
+      <br>
+      <a href="https://ivy.dev/" style="text-decoration: none;">Website</a>
+    </td>
+    <td align="center">
+      <img width="70" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/docs.svg" alt="Docs">
+      <br>
+      <a href="https://ivy.dev/docs" style="text-decoration: none;">Docs</a>
+    </td>
+    <td align="center">
+      <img width="75" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/demos.svg" alt="Demos">
+      <br>
+      <a href="https://ivy.dev/docs/demos" style="text-decoration: none;">Demos</a>
+    </td>
+    <td align="center">
+      <img width="75" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/design.svg" alt="Design">
+      <br>
+      <a href="https://ivy.dev/docs/overview/design" style="text-decoration: none;">Design</a>
+    </td>
+    <td align="center">
+      <img width="75" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/faq.svg" alt="FAQ">
+      <br>
+      <a href="https://ivy.dev/docs/overview/faq" style="text-decoration: none;">FAQ</a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -51,7 +55,7 @@
     <a href="https://github.com/ivy-llc/ivy/actions?query=workflow%3Adocs">
         <img class="dark-light" style="padding-right: 4px; padding-bottom: 4px;" src="https://github.com/ivy-llc/ivy/actions/workflows/docs.yml/badge.svg">
     </a>
-    <a href="https://discord.gg/r5mcSAfp">
+    <a href="https://discord.gg/uYRmyPxMQq">
         <img class="dark-light" style="padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/discord/1220325004013604945?color=blue&label=%20&logo=discord&logoColor=white">
     </a>
 </div>
@@ -60,30 +64,30 @@
 
 # Convert Machine Learning Code Between Frameworks
 
-Ivy is an open-source machine learning framework that enables you to:
+Ivy enables you to:
 
-- Use your ML models and/or functions in any framework by converting any code from one framework to another using `ivy.transpile`
-- Convert entire ML models and libraries between frameworks by generating identical source code in any frameworkusing `ivy.source_to_source` *(currently in private beta)*
+- Convert ML models, tools and libraries between frameworks while maintaining complete functionality using `ivy.transpile`
+- Create optimized graph-based models and functions in any native framework (PyTorch, TensorFlow, etc..) with `ivy.trace_graph`
 
 <div style="display: block;" align="center">
     <div>
     <a href="https://jax.readthedocs.io">
-        <img class="dark-light" width="10%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/jax_logo.png">
+        <img class="dark-light" width="100" height="100" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/logos/jax.svg">
     </a>
     <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
     <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
     <a href="https://www.tensorflow.org">
-        <img class="dark-light" width="10%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/tensorflow_logo.png">
+        <img class="dark-light" width="100" height="100" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/logos/tensorflow.svg">
     </a>
     <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
     <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
     <a href="https://pytorch.org">
-        <img class="dark-light" width="10%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/pytorch_logo.png">
+        <img class="dark-light" width="100" height="100" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/logos/pytorch.svg">
     </a>
     <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
     <img class="dark-light" width="5%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
     <a href="https://numpy.org">
-        <img class="dark-light" width="10%" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/numpy_logo.png">
+        <img class="dark-light" width="100" height="100" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/logos/numpy.svg">
     </a>
     </div>
 </div>
@@ -101,8 +105,10 @@ You can find Ivy's documentation on the [Docs page](https://ivy.dev/docs/), whic
 - [Design](https://ivy.dev/docs/overview/design.html): A user-focused guide about the design decision behind the architecture and the main building blocks of Ivy.
 - [Deep Dive](https://ivy.dev/docs/overview/deep_dive.html): Which delves deeper into the implementation details of Ivy and is oriented towards potential contributors to the code base.
 
-# Contributing
 
+<br>
+
+# Contributing
 
 We believe that everyone can contribute and make a difference. Whether
 it\'s writing code, fixing bugs, or simply sharing feedback,
@@ -110,20 +116,23 @@ your contributions are definitely welcome and appreciated 🙌
 
 Check out all of our [Open Tasks](https://ivy.dev/docs/overview/contributing/open_tasks.html),
 and find out more info in our [Contributing guide](https://ivy.dev/docs/overview/contributing.html)
-in the docs! Or to immediately dive into a useful task, look for any failing tests on our [Test Dashboard](https://github.com/Transpile-AI/ivy-tests-dashboard/blob/main/DASHBOARD.md)!
+in the docs! Or to immediately dive into a useful task, look for any failing tests on our [Test Dashboard](https://github.com/ivy-llc/ivy-tests-dashboard/blob/main/DASHBOARD.md)!
+
+
+<br>
+
+# Community
 
 <a href="https://github.com/ivy-llc/ivy/graphs/contributors">
   <img class="dark-light" src="https://contrib.rocks/image?repo=ivy-llc/ivy&anon=0&columns=20&max=100&r=true" />
 </a>
 
 <br>
-
-# Community
-
+<br>
 
 Join our growing community on a mission to make conversions between frameworks simple and accessible to all!
 Whether you are a seasoned developer or just starting out, you\'ll find a place here! Join the Ivy community on
-our [Discord](https://discord.gg/mMnS8Egy) 👾 server, which is the
+our [Discord](https://discord.gg/uYRmyPxMQq) 👾 server, which is the
 perfect place to ask questions, share ideas, and get help from both
 fellow developers and the Ivy Team directly.
 
