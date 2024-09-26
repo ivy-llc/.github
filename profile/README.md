@@ -16,32 +16,32 @@
       <a href="https://ivy.dev/" style="text-decoration: none;">Website</a>
     </td>
     <td align="center">
-      <a href="https://ivy.dev/docs">
+      <a href="https://docs.ivy.dev/">
           <img class="dark-light" width="70" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/docs.svg" alt="Docs">
       </a>
       <br>
-      <a href="https://ivy.dev/docs" style="text-decoration: none;">Docs</a>
+      <a href="https://docs.ivy.dev/" style="text-decoration: none;">Docs</a>
     </td>
     <td align="center">
-      <a href="https://ivy.dev/docs/demos">
+      <a href="https://docs.ivy.dev/demos">
           <img class="dark-light" width="75" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/demos.svg" alt="Demos">
       </a>
       <br>
-      <a href="https://ivy.dev/docs/demos" style="text-decoration: none;">Demos</a>
+      <a href="https://docs.ivy.dev/demos" style="text-decoration: none;">Demos</a>
     </td>
     <td align="center">
-      <a href="https://ivy.dev/docs/overview/design">
+      <a href="https://docs.ivy.dev/overview/design.html">
           <img class="dark-light" width="75" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/design.svg" alt="Design">
       </a>
       <br>
-      <a href="https://ivy.dev/docs/overview/design" style="text-decoration: none;">Design</a>
+      <a href="https://docs.ivy.dev/overview/design.html" style="text-decoration: none;">Design</a>
     </td>
     <td align="center">
-      <a href="https://ivy.dev/docs/overview/faq">
+      <a href="https://docs.ivy.dev/overview/faq.html">
           <img class="dark-light" width="75" src="https://raw.githubusercontent.com/ivy-llc/assets/refs/heads/main/assets/faq.svg" alt="FAQ">
       </a>
       <br>
-      <a href="https://ivy.dev/docs/overview/faq" style="text-decoration: none;">FAQ</a>
+      <a href="https://docs.ivy.dev/overview/faq.html" style="text-decoration: none;">FAQ</a>
     </td>
   </tr>
 </table>
@@ -108,14 +108,13 @@ Ivy enables you to:
 
 # Get started
 
-You can find Ivy's documentation on the [Docs page](https://ivy.dev/docs/), which includes:
-- [Motivation](https://ivy.dev/docs/overview/motivation.html): This contextualizes the problem Ivy is trying to solve by going over
-    - The current [ML Explosion](https://ivy.dev/docs/overview/motivation/ml_explosion.html#ml-explosion).
-    - Explaining why it is important [to solve this problem](https://ivy.dev/docs/overview/motivation/why_unify.html#why-unify).
-    - Explaining how we adhere to existing [standards](https://ivy.dev/docs/overview/motivation/standardization.html#standardization) to make this happen.
-- [Related Work](https://ivy.dev/docs/overview/related_work.html): Which paints a picture of the role Ivy plays in the ML stack, comparing it to other existing solutions in terms of functionalities and abstraction level.
-- [Design](https://ivy.dev/docs/overview/design.html): A user-focused guide about the design decision behind the architecture and the main building blocks of Ivy.
-- [Deep Dive](https://ivy.dev/docs/overview/deep_dive.html): Which delves deeper into the implementation details of Ivy and is oriented towards potential contributors to the code base.
+You can find Ivy's documentation on the [Docs page](https://docs.ivy.dev/), which includes:
+- [Motivation](https://docs.ivy.dev/overview/motivation.html): This contextualizes the problem Ivy is trying to solve by going over
+    - The current [ML Explosion](https://docs.ivy.dev/overview/motivation/ml_explosion.html#ml-explosion).
+    - Explaining why it is important [to solve this problem](https://docs.ivy.dev/overview/motivation/why_transpile.html#why-transpile).
+- [Related Work](https://docs.ivy.dev/overview/related_work.html): Which paints a picture of the role Ivy plays in the ML stack, comparing it to other existing solutions in terms of functionalities and abstraction level.
+- [Design](https://docs.ivy.dev/overview/design.html): A user-focused guide about the design decision behind the architecture and the main building blocks of Ivy.
+- [Deep Dive](https://docs.ivy.dev/overview/deep_dive.html): Which delves deeper into the implementation details of Ivy and is oriented towards potential contributors to the code base.
 
 
 <br>
@@ -126,8 +125,8 @@ We believe that everyone can contribute and make a difference. Whether
 it\'s writing code, fixing bugs, or simply sharing feedback,
 your contributions are definitely welcome and appreciated 🙌
 
-Check out all of our [Open Tasks](https://ivy.dev/docs/overview/contributing/open_tasks.html),
-and find out more info in our [Contributing guide](https://ivy.dev/docs/overview/contributing.html)
+Check out all of our [Open Tasks](https://docs.ivy.dev/overview/contributing/open_tasks.html),
+and find out more info in our [Contributing guide](https://docs.ivy.dev/overview/contributing.html)
 in the docs! Or to immediately dive into a useful task, look for any failing tests on our [Test Dashboard](https://github.com/ivy-llc/ivy-tests-dashboard/blob/main/DASHBOARD.md)!
 
 
